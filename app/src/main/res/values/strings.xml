@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gpa_jaffae1_calculator</string>
+    <string name="quickGPA"><b>QuickGPA</b></string>
+    <string name="course_name_header">Course</string>
+    <string name="grade_header">Grade</string>
+    <string name="credits_header">Credit Hours</string>
+    <string name="results_prefix">Your grade point average is:</string>
+</resources>
